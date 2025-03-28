@@ -1,7 +1,7 @@
 # Customer Conversion Analysis for Online Shopping Using Clickstream Data
 
 ## 📌 Project Overview
-This project focuses on analyzing customer behavior using **Clickstream Data** to predict purchasing decisions, estimate potential revenue, and segment customers. It applies various **Supervised** and **Unsupervised Machine Learning Techniques** to provide actionable insights for online retailers.
+This project focuses on analyzing customer behavior using **Clickstream Data** to predict purchasing decisions, estimate potential revenue, and segment customers. It applies various **Supervised** and **Unsupervised Machine Learning Techniques** to provide actionable insights for online retailers.All models achieved an accuracy of 90%.
 
 ---
 
